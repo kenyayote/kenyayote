@@ -1,16 +1,12 @@
 <?php
 /*
-Plugin Name: Woocommerce Pesapal Payment Gateway
-Plugin URI: http://bodhi.io
-Description: Allows use of kenyan payment processor Pesapal - http://pesapal.com.
+Plugin Name: Kenyayote
+Plugin URI: http://kenyayote.com: for tech newbies Kenyayote - http://kenyayote.com.
 Version: 0.5.3
-Author: Jake Lee Kennedy
-Author URI: http://bodhi.io
-License: GPLv3
+Author: Elvis Nyakreal: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Copyright 2012  Jake Lee Kennedy  (email : jake@bodhi.io)
-
+Copyright 2012  Elvis Nyakreal  (email : htoko89@gmail.com
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 3, as
 published by the Free Software Foundation.
