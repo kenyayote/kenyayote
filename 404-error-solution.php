@@ -1,11 +1,11 @@
 <?php
 /*
  * Plugin Name: 404 error solution
- * Plugin URI: http://kenyayote.com
+ * Plugin URI: http://www.kenyayote.com/free-404-error-solution-word-press-solution/
  * Description: This plugin determines if the request will cause a 404 HTTP error and redirects to the page or post  you want. 
  * Version: 1.2
  * Author: Elvis Nyakreal
- * Author URI: http://kenyayote.com
+ * Author URI: https://www.facebook.com/elvis.nyakangi?ref=tn_tnmn
  */
 
 load_plugin_textdomain( 'fzf', false, dirname( plugin_basename( __FILE__ ) ) . '/lang' );
